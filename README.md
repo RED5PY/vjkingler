@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**vjkingler/vjkingler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Spy </h1>
+<a href="https://github.com/vjkingler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjkingler&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/vjkingler">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjkingler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</a>
+<a href="https://github.com/vjkinler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjkingler&repo=mindDiary&theme=dark" />
+</a>
+<a href="https://github.com/vjkingler/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjkingler&repo=xylophone-flutter&theme=dark" />
+</a>
+</p>
