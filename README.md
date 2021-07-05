@@ -7,7 +7,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjkingler&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a>
 <a href="https://github.com/vjkinler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjkingler&repo=mindDiary&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjkingler&repo=mallu-passwordlist&theme=dark" />
 </a>
 <a href="https://github.com/vjkingler/">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjkingler&repo=dos-attack&theme=dark" />
